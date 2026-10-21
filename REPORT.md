@@ -29,7 +29,7 @@ Supply voltage: 5 V DC
 
 Components: DC voltage source, resistor, LED and connecting wires.
 
-Circuit screenshot: images/led-circuit.png
+Circuit screenshot: led-circuit.png
 
 Simulation link: [Falsted simulation](https://www.falstad.com/s.py?s=LhRh49)
 # 5. Method
