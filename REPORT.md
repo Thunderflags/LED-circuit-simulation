@@ -2,7 +2,7 @@
 
 # Investigating the Effect of Resistance on LED Current
 
-#1. Aim
+# 1. Aim
 
 To investigate how changing resistance affects the current in a simple LED-circuit while keeping the supply voltage constant.
 
