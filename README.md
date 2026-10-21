@@ -49,3 +49,8 @@ Results may vary depending on the LED model and the assumptions used.
 I learned how voltage, resistance and current are related in a simple circuit.
 I understood how to apply Ohm's law and compare calculations with simulated results.
 I also learned that an LED's forward voltage is not perfectly constant.
+
+
+# Related Python Project
+
+[LED Circuit Current Calculator](https://github.com/Thunderflags/Current-ohm-python-calculator)
