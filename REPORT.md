@@ -31,7 +31,7 @@ Components: DC voltage source, resistor, LED and connecting wires.
 
 Circuit screenshot: images/led-circuit.png
 
-Simulation link: 
+Simulation link: [Falsted simulation](https://www.falstad.com/s.py?s=LhRh49)
 # 5. Method
 
 1. Created a series circuit containing a DC source, resistor and LED.
